@@ -42,7 +42,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: "http://people.virginia.edu/~trb5me/taylors_tomtom_pres.pdf"
+#url_slides: "http://people.virginia.edu/~trb5me/taylors_tomtom_pres.pdf"
 
 url_code:
 url_pdf:
@@ -62,3 +62,6 @@ slides: ""
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+{{% staticref "files/taylors_tomtom_pres.pdf" %}}Download presentation here{{% /staticref %}}
+

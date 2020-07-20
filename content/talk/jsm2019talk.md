@@ -12,7 +12,6 @@ categories: []
 featured: false
 draft: false
 date: 2019-07-28
-url_slides: "http://people.virginia.edu/~trb5me/taylors_jsm_pres.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -29,3 +28,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+
+{{% staticref "files/taylors_jsm_pres.pdf" %}}Download presentation here{{% /staticref %}}
