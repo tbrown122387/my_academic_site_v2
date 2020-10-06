@@ -43,7 +43,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:trb5me@virginia.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/Taylor50041702
+  link: https://twitter.com/tbrown122387
 - icon: github
   icon_pack: fab
   link: https://github.com/tbrown122387
@@ -58,6 +58,9 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
