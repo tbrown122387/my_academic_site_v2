@@ -28,6 +28,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-
 {{% staticref "files/taylors_jsm_pres.pdf" %}}Download presentation here{{% /staticref %}}

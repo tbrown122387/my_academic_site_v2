@@ -29,5 +29,4 @@ image:
 projects: []
 ---
 
-
 {{% staticref "files/panel_pres.pdf" %}}Download slides here{{% /staticref %}}
