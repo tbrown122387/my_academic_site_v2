@@ -112,7 +112,7 @@ address = {street = "211 Halsey Hall", city = "Charlottesville", region = "VA", 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/Taylor50041702"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/tbrown122387"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
@@ -124,7 +124,7 @@ contact_links = [
 sharing_image = "IMG_0382.JPG"
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "Taylor50041702"
+twitter = "tbrown122387"
 
 ############################
 ## Regional Settings
