@@ -29,4 +29,4 @@ image:
 projects: []
 ---
 
-{{% staticref "files/panel_pres.pdf" %}}Download slides here{{% /staticref %}}
+[Download slides here]({{ "files/panel_pres.pdf" }})

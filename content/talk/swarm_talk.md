@@ -30,4 +30,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-{{% staticref "files/swarm_pres.pdf" %}}Download presentation here{{% /staticref %}}
+
+[Download presentation here]({{ "files/swarm_pres.pdf" }})

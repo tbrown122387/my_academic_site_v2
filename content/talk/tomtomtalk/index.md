@@ -63,4 +63,4 @@ slides: ""
 projects: []
 ---
 
-{{% staticref "files/taylors_tomtom_pres.pdf" %}}Download presentation here{{% /staticref %}}
+[Download presentation here]({{ "files/taylors_tomtom_pres.pdf" }})
