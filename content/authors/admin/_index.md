@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer of Statistics
+role: Assistant Professor, General Faculty
 
 # Organizations/Affiliations
 organizations:
@@ -69,4 +69,4 @@ highlight_name: false
 #- Visitors
 ---
 
-Taylor Brown is a lecturer of statistics at the University of Virginia. His research interests include state space models, particle filtering, and Markov chain Monte Carlo algorithms. 
+Taylor Brown is an assistant professor of statistics at the University of Virginia. His research interests include state space models, particle filtering, and Markov chain Monte Carlo algorithms. 
